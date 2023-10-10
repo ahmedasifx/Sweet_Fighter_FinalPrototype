@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartScreen.unity
+    guid: 811358d581cfd4975817bec7ff692dfc
+  - enabled: 1
+    path: Assets/Scenes/SelectScreen.unity
+    guid: 617d9c805903d4550889a8712a29d158
+  - enabled: 1
+    path: Assets/Scenes/cherryAi vs Cherry.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Cherry vs Cherry.unity
+    guid: f2b4683e5061f2c4faadcc35acef6ec5
+  - enabled: 1
+    path: Assets/Scenes/Cherry vs creamAI.unity
+    guid: 1005123e59e117940a9aa410f1d4d56d
+  - enabled: 1
+    path: Assets/Scenes/CherryVsCream 1.unity
+    guid: 36b4218b6fbf54efab2078cdb86ffcdc
+  - enabled: 1
+    path: Assets/Scenes/Cream vs Cherry.unity
+    guid: e3b646c120ccdb240b129a99133ef0dc
+  - enabled: 1
+    path: Assets/Scenes/Cream vs CHERRYAi.unity
+    guid: 87bef015c69c51742ab54ada5177e388
+  - enabled: 1
+    path: Assets/Scenes/CreamVsCream 1.unity
+    guid: 245652ac0f51ed345a221bb4da48529d
+  - enabled: 1
+    path: Assets/Scenes/CreamVsCreamAI.unity
+    guid: f4eacae585e3b944b94144f62a0e4322
+  m_configObjects: {}
